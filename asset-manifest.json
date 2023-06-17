@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/religion-cpt/static/css/main.2267d0b2.css",
+    "main.js": "/religion-cpt/static/js/main.3588540f.js",
+    "static/js/223.f494dd99.chunk.js": "/religion-cpt/static/js/223.f494dd99.chunk.js",
+    "static/js/787.ad96e7c1.chunk.js": "/religion-cpt/static/js/787.ad96e7c1.chunk.js",
+    "static/media/religionbg.mp4": "/religion-cpt/static/media/religionbg.4557459e9a1e94ff4c02.mp4",
+    "static/media/crucifixion.png": "/religion-cpt/static/media/crucifixion.9a42acae3122766bc4c3.png",
+    "static/media/statue.jpg": "/religion-cpt/static/media/statue.3e4f44f70c8866c9189e.jpg",
+    "static/media/vatican_2.jpg": "/religion-cpt/static/media/vatican_2.7b2852b1577f019b7ae2.jpg",
+    "static/media/ordination.jpg": "/religion-cpt/static/media/ordination.64478d7ae2b14cd8d3b9.jpg",
+    "static/media/thesick.jpg": "/religion-cpt/static/media/thesick.4f74ecd30938267db4b3.jpg",
+    "static/media/death.jpg": "/religion-cpt/static/media/death.6dcdbb30df0e0c051b18.jpg",
+    "static/media/confirmation.jpg": "/religion-cpt/static/media/confirmation.b74de3ea9e1abb9f1f54.jpg",
+    "static/media/communion.jpg": "/religion-cpt/static/media/communion.3a72557ef6d555f4d004.jpg",
+    "static/media/1.jpg": "/religion-cpt/static/media/1.f9455c0850fa0c6ad91b.jpg",
+    "static/media/baptism.jpg": "/religion-cpt/static/media/baptism.06c99bcd7638410f3c55.jpg",
+    "static/media/4.jpg": "/religion-cpt/static/media/4.da04fdd25ec5b6966722.jpg",
+    "static/media/bible.jpg": "/religion-cpt/static/media/bible.430fdd300f5e2387d9b3.jpg",
+    "static/media/matrimony.jpg": "/religion-cpt/static/media/matrimony.a78faf5819cee7f134f5.jpg",
+    "static/media/3.png": "/religion-cpt/static/media/3.3c7708f41e996a9385d7.png",
+    "static/media/confession.jpg": "/religion-cpt/static/media/confession.2dad4351c135cc79ef65.jpg",
+    "static/media/5.png": "/religion-cpt/static/media/5.dc379a4f4d69b4c20f45.png",
+    "static/media/2.png": "/religion-cpt/static/media/2.9a6214b55584644bec14.png",
+    "index.html": "/religion-cpt/index.html",
+    "main.2267d0b2.css.map": "/religion-cpt/static/css/main.2267d0b2.css.map",
+    "main.3588540f.js.map": "/religion-cpt/static/js/main.3588540f.js.map",
+    "223.f494dd99.chunk.js.map": "/religion-cpt/static/js/223.f494dd99.chunk.js.map",
+    "787.ad96e7c1.chunk.js.map": "/religion-cpt/static/js/787.ad96e7c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2267d0b2.css",
+    "static/js/main.3588540f.js"
+  ]
+}
