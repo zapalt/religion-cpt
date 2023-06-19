@@ -27,29 +27,6 @@ function Home() {
                         </div>
                     </div>
                 </div>
-                <div class="flex flex-row">
-                    <div>
-                        <Pane animate={true}>
-                            <h1 class="font-Unbounded font-bold text-4xl pb-8">What Are Abrahamic Religions?</h1>
-                            <LoremIpsum p={1}></LoremIpsum>
-                        </Pane>
-                        <Pane animate={true}>
-                            <div class="flex flex-col gap-7">
-                                <h1 class="font-Unbounded font-bold text-4xl">Why Have Interreligious Dialogue?</h1>
-                                <div class="font-SpaceGrotesk text-justify">
-                                    <LoremIpsum p={1}></LoremIpsum>
-                                </div>
-                                <div class="aspect-w-16 aspect-h-9 ">
-                                    <iframe className="rounded-lg" width="1022" height="575" src="https://www.youtube.com/embed/YJaeJz9jQU8" title="What is Interreligious Dialogue?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                                </div>
-                            </div>
-                        </Pane>
-                    </div>
-                    <div class="flex flex-col gap-10 p-10 pl-0">
-                        <Card title={"Second Vatican Council"} image={vatican_2}/>
-                        <Card title={"Nostra Aetate"} image={vatican_2}/>
-                    </div>
-                </div>
             </div>
         </div>
     );
