@@ -47,6 +47,8 @@ module.exports = {
         'out-expo': 'cubic-bezier(0.16, 1, 0.3, 1)',
       },
       backgroundImage: {
+        'islam': "url('media/islam/islam.jpg')",
+        'judaism': "url('media/judaism/judaism.jpg')",
         'statue': "url('media/christianity/statue.jpg')",
         'img1': "url('media/home/religions.jpg')",
         'img0': "url('media/home/aerial.jpg')",
