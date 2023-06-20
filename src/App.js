@@ -10,10 +10,10 @@ function App() {
   return (
     <div>
         <Routes>
-          <Route path="/" element={<Home/>}/>
-          <Route path="Judaism" element={<Judaism/>}/>
-          <Route path="Christianity" element={<Christianity/>}/>
-          <Route path="Islam" element={<Islam/>}/>
+          <Route path="religion-cpt" element={<Home/>}/>
+          <Route path="religion-cpt/Judaism" element={<Judaism/>}/>
+          <Route path="religion-cpt/Christianity" element={<Christianity/>}/>
+          <Route path="religion-cpt/Islam" element={<Islam/>}/>
           <Route path="*" element={<Unknown/>}/>
         </Routes>
         <div class="fixed left-0 right-0 top-0 bottom-0 bg-c1-100/50 -z-50"></div>

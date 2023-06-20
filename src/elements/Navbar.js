@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 
 function NavbarElement({ name, img, link }) {
     return (
-        <Link className="btn" to={link} class="
+        <Link className="btn" to={"religion-cpt" + link} class="
         py-1 px-5 rounded-full border-2 border-transparent hover:border-c1-400/20
         ease-out-expo duration-[0.4s]
         hover:scale-[1.05 hover:text-c1-400 
